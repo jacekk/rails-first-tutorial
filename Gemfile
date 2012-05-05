@@ -17,5 +17,5 @@ group :production do
 	gem 'rspec-rails','2.9.0'
 	gem 'pg'
 	gem 'uglifier' 
-#	gem 'therubyracer'
+	gem 'therubyracer'
 end
