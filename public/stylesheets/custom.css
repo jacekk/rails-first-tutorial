@@ -16,6 +16,9 @@ section{
 	padding:20px;
 	background:#fff;
 }
+section h1{
+	font-size:200%;
+}
 a{
 	color:#000;
 	text-decoration:none;

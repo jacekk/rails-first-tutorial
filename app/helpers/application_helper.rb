@@ -9,4 +9,7 @@ module ApplicationHelper
 			"#{@title} | #{base_title}"
 		end
 	end
+	def logo
+		image_tag("logo.jpg", :alt=>"",:class=>"round")
+	end
 end
