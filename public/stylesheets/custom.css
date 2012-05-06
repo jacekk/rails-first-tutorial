@@ -56,3 +56,7 @@ footer {
 footer nav{
 	float:none;
 }
+.sign_up_btn{
+	padding:10px 20px;
+	background:#bff;
+}
