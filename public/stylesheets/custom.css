@@ -44,3 +44,12 @@ nav li a{
 	-mox-border-radius:15px;
 	-webkit-border-radius:15px;
 }
+footer {
+	text-align:center;
+	margin:0 auto;
+	margin-top:20px;
+	width:710px;
+}
+footer nav{
+	float:none;
+}
