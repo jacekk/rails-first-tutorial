@@ -1,0 +1,46 @@
+.container{
+	width:710px;
+}
+body{
+	background:#e1ddf6;
+}
+header{
+	padding-top:20px;
+}
+header img{
+	padding: 1em;
+}
+section{
+	margin-top:1em;
+	font-size:120%;
+	padding:20px;
+	background:#fff;
+}
+a{
+	color:#000;
+	text-decoration:none;
+}
+a:hover{
+	color:#000;
+	text-decoration:underline;
+}
+nav{
+	float:right;
+	padding:0.7em 0;
+	white-space:nowrap;
+	background:#fff;
+	height:21px;
+}
+nav li{
+	display:inline-block;
+	list-style:none;
+	padding:0.2em 0;
+}
+nav li a{
+	padding:0 5px;
+}
+.round{
+	border-radius:15px;
+	-mox-border-radius:15px;
+	-webkit-border-radius:15px;
+}
